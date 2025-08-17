@@ -6,10 +6,6 @@
 </h1>
 
 
-<p align="center"> 
-    <img width='80%' height='140rem' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote-block" />
-</p>
-
 ## Who Am I?
 
 A hands-on creative software developer with **excellent communication, organizational skills**. I’m a **Software Developer & DevOps Engineer** who loves to **solve problems by building tech solutions from scratch**.  
