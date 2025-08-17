@@ -20,7 +20,7 @@ Currently exploring **Blockchain** and writing code in **Rust**, while strengthe
 
 ## Profile Summary
 
-<img align="right" src="Rolling Chair (Reel 2017).gif" alt="GIF" width="500" height="300">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="300">
 
 - 🔭 I’m currently working as a **Backend & DevOps Engineer**, building with technologies like **Kubernetes, Docker, and Cloud Infrastructure**  
 - 🌱 I’m currently learning **Rust, Anchor Framework, and Solidity for Blockchain development**  
