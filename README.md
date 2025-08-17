@@ -2,7 +2,7 @@
 
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1 align="center">
-  Helloz Helloz, I am Tanmay!&nbsp;Welcome to my GitHub Profile <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG91NnV4MXZraHJrd3ZmOWlmNnMwOWZ2OWE1aTNrdzViOHpjMTE0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wQclSvQQKtObPx9UKY/giphy.gif" width="50">
+  Helloz Helloz, I am Tanmay!&nbsp;Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="50">
 </h1>
 
 
