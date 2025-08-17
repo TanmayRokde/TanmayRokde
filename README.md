@@ -20,7 +20,7 @@ Currently exploring **Blockchain** and writing code in **Rust**, while strengthe
 
 ## Profile Summary
 
-<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF" width="500" height="300">
+<img align="right" src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif" alt="GIF" width="500" height="300">
 
 - 🔭 I’m currently working as a **Backend & DevOps Engineer**, building with technologies like **Kubernetes, Docker, and Cloud Infrastructure**  
 - 🌱 I’m currently learning **Rust, Anchor Framework, and Solidity for Blockchain development**  
