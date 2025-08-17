@@ -2,7 +2,7 @@
 
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1 align="center">
-  Helloz Helloz, I am Tanmay!&nbsp;Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="50">
+  Helloz Helloz, I am Tanmay!&nbsp;Welcome to my GitHub Profile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="50">
 </h1>
 
 
